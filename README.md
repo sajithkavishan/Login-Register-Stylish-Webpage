@@ -1,8 +1,8 @@
 # Stylish-Login?Register-Webpage
 This is a Modern & Stylish Login/Register Webpage creat using HTML, CSS & JS.
 # Login/Register Webpage
-![Masterhead](https://res.cloudinary.com/practicaldev/image/fetch/s--xVCufn18--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5nnkrcc3kixypm642opg.gif)
-<h1 align="center"> Exam time Table  for given subjects using - C++</h1>
+![Masterhead](https://media.giphy.com/media/DLz5I4BGyRSOlbSC3o/giphy.gif)
+<h1 align="center">Login/Register Webpage Using - HTML, CSS & JS</h1>
 <h3 align="center">A passionate Developer & Graphic Designer From Sri Lanka</h3>
 
 <h3 align="left">Connect with me:</h3>

@@ -3,7 +3,7 @@ This is a Modern & Stylish Login/Register Webpage creat using HTML, CSS & JS.
 # Login/Register Webpage
 ![Masterhead](https://media.giphy.com/media/DLz5I4BGyRSOlbSC3o/giphy.gif)
 <h1 align="center">Login/Register Webpage Using - HTML, CSS & JS</h1>
-<h3 align="center">A passionate Developer & Graphic Designer From Sri Lanka</h3>
+<h3 align="center">A passionate Full-Stack Developer & Graphic/UI/UX Designer from Sri Lanka</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

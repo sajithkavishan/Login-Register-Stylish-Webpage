@@ -1,5 +1,6 @@
 # Stylish-Login/Register-Webpage
 This is a Modern & Stylish Login/Register Webpage creat using HTML, CSS & JS.
+<img src="Screenshot (16)" >
 ![Masterhead](https://media.giphy.com/media/DLz5I4BGyRSOlbSC3o/giphy.gif)
 <h1 align="center">Login/Register Webpage Using - HTML, CSS & JS</h1>
 <h3 align="center">A passionate Full-Stack Developer & Graphic/UI/UX Designer from Sri Lanka</h3>
